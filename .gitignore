@@ -1,0 +1,12 @@
+# R generated output folders (recreated by scripts/proje1.R)
+pre_carrier_handoff_outputs_clean/
+rio_final_outputs_capacity_scenarios_jaamsim_v4/
+
+# R session/history files
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS junk
+.DS_Store
+Thumbs.db
